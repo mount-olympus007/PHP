@@ -1,0 +1,9 @@
+{
+    "require": {
+        "bcosca/fatfree-core": "^3.8",
+        "bcosca/fatfree": "^3.8",
+        "twilio/sdk": "^6.37",
+        "sendgrid/sendgrid": "^8.0",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
